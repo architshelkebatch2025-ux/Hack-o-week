@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Archit Shelke Portfolio</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #4facfe, #00f2fe);
+            color: #333;
+        }
+
+        header {
+            text-align: center;
+            padding: 50px;
+            color: white;
+        }
+
+        header h1 {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 20px;
+        }
+
+        section {
+            background: white;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        }
+
+        h2 {
+            color: #4facfe;
+        }
+
+        .skills span {
+            display: inline-block;
+            background: #4facfe;
+            color: white;
+            padding: 8px 15px;
+            margin: 5px;
+            border-radius: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Archit Shelke</h1>
+    <p>Student | Future Programmer 🚀</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        Hello! My name is Archit Shelke. I am currently studying at Symbiosis College, Nagpur.
+        I am passionate about learning different coding languages and improving my programming skills.
+        I enjoy exploring new technologies and building creative projects.
+    </p>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <p>🎓 Symbiosis College, Nagpur</p>
+    <p>Currently pursuing my studies</p>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <div class="skills">
+        <span>HTML</span>
+        <span>CSS</span>
+        <span>Python</span>
+        <span>C</span>
+        <span>Java</span>
+    </div>
+</section>
+
+<section>
+    <h2>Interests</h2>
+    <ul>
+        <li>Learning new programming languages</li>
+        <li>Web development</li>
+        <li>Problem solving</li>
+        <li>Technology & innovation</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: architshelke6@gmail.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Archit Shelke</p>
+</footer>
+
+</body>
+</html>
